@@ -132,12 +132,13 @@ LANTA ใช้ **SLURM Scheduler** สำหรับจัดการงา�
 #SBATCH --gpus-per-task=1  # จำนวน GPU ที่ใช้
 #SBATCH --ntasks-per-node=4  # จำนวนงานต่อโหนด
 #SBATCH -t 02:00:00  # เวลาที่ใช้ (ชั่วโมง:นาที:วินาที)
-#SBATCH -A ltxxxxxx  # ใส่ชื่อโปรเจกต์ของคุณ
+#SBATCH -A cb900902  # ใส่ชื่อโปรเจกต์ของคุณ
 #SBATCH -J my_gpu_job  # ตั้งชื่อ job
 
 module load Mamba/23.11.0-0
-conda activate pytorch-env
-python3 myscript.py  # เรียกใช้โค้ด Python
+conda activate pytorch-2.2.2
+export PATH=/lustrefs/disk/modules/easybuild/software/Mamba/23.11.0-0/envs/pytorch-2.2.2/bin:$PATH
+python3 multi-gpu.py
 ```
 จากนั้นใช้คำสั่ง **sbatch** เพื่อรัน:
 ```bash
