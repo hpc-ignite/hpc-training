@@ -6,3 +6,6 @@ https://teams.microsoft.com/l/meetup-join/19:5pGTlXBNEqFrHtjQo5SJKjuZ_6pZlj6XFGb
 
 # เข้าเครื่อง
 lanta.nstda.or.th
+
+# ระหว่างรอ
+https://linuxsurvival.com/
