@@ -15,9 +15,15 @@ https://thaisc.atlassian.net/wiki/spaces/LANTA/overview?homepageId=230719694#Int
 https://thaisc.io/th/access-to-hpc/pricing
 
 # ซูเปอร์คอมพิวเตอร์ ที่น่าสนใจ
+## ฟูกากุ เครื่องที่ผลิตชิปและระบบเฉพาะขึ้นมาเอง
 https://www.r-ccs.riken.jp/en/fugaku/3d-models/
 ## El Captain เครื่องซูเปอร์คอมพิวเตอร์ที่เร็วที่สุดในโลก พย.2024
 https://www.youtube.com/watch?v=Q8wtuk3XPWM
+## เครื่อง Frontier (สหรัฐอเมริกา)
+https://www.olcf.ornl.gov/olcf-resources/compute-systems/frontier/
+## ซูเปอร์คอมพิวเตอร์ ใน Europe
+https://eurohpc-ju.europa.eu/supercomputers/our-supercomputers_en
+
 
 # คำสั่งสำหรับใช้ Nano และ Tree
 module use /project/cb900902-hpct01/modules
