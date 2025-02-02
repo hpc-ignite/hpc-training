@@ -57,6 +57,7 @@ scp -r myfolder/ [ชื่อผู้ใช้]@transfer.lanta.nstda.or.th:/ho
    module load Mamba/23.11.0-0
    ```
 2. เปิดใช้งาน environment:
+   
    ```bash
 conda activate pytorch-2.2.2
    ```
