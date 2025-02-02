@@ -9,6 +9,15 @@ lanta.nstda.or.th
 
 # ระหว่างรอ
 https://linuxsurvival.com/
+https://top500.org/
+https://thaisc.io/th/thaisc-resorces/lanta
+https://thaisc.atlassian.net/wiki/spaces/LANTA/overview?homepageId=230719694#Introduction-to-LANTA
+https://thaisc.io/th/access-to-hpc/pricing
+
+# ซูเปอร์คอมพิวเตอร์ ที่น่าสนใจ
+https://www.r-ccs.riken.jp/en/fugaku/3d-models/
+## El Captain เครื่องซูเปอร์คอมพิวเตอร์ที่เร็วที่สุดในโลก พย.2024
+https://www.youtube.com/watch?v=Q8wtuk3XPWM
 
 # คำสั่งสำหรับใช้ Nano และ Tree
 module use /project/cb900902-hpct01/modules
