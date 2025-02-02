@@ -39,6 +39,14 @@ https://www.nchc.org.tw/
 https://www.datacenterdynamics.com/en/news/brazils-petrobras-has-purchased-89-million-fleet-of-lenovo-supercomputers/
 
 # คำสั่งสำหรับใช้ Nano และ Tree
+```bash
 module use /project/cb900902-hpct01/modules
+```
+```bash
 module load nano
+```
+
+```bash
 module load tree
+```
+
