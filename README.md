@@ -50,3 +50,6 @@ module load nano
 module load tree
 ```
 
+# แบบสอบถามหลังฝึกอบรม
+https://forms.gle/tK9vmbtVmDc7PQqq8
+
