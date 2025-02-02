@@ -9,3 +9,8 @@ lanta.nstda.or.th
 
 # ระหว่างรอ
 https://linuxsurvival.com/
+
+# คำสั่งสำหรับใช้ Nano และ Tree
+module use /project/cb900902-hpct01/modules
+module load nano
+module load tree
