@@ -9,9 +9,13 @@ lanta.nstda.or.th
 
 # ระหว่างรอ
 https://linuxsurvival.com/
+
 https://top500.org/
+
 https://thaisc.io/th/thaisc-resorces/lanta
+
 https://thaisc.atlassian.net/wiki/spaces/LANTA/overview?homepageId=230719694#Introduction-to-LANTA
+
 https://thaisc.io/th/access-to-hpc/pricing
 
 # ซูเปอร์คอมพิวเตอร์ ที่น่าสนใจ
