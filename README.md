@@ -63,6 +63,10 @@ module load nano
 module load tree
 ```
 
+#การบ้าน ฝึกเล่น
+https://playground.tensorflow.org/
+
+
 # แบบสอบถามหลังฝึกอบรม
 https://forms.gle/tK9vmbtVmDc7PQqq8
 
