@@ -59,6 +59,13 @@ cd ~
 ```bash
 mkdir myfolder
 ```
+
+### **สร้างไฟล์ใหม่**
+```bash
+touch filename.txt
+```
+
+
 ### **ลบไฟล์หรือโฟลเดอร์**
 ```bash
 rm filename.txt
