@@ -20,6 +20,7 @@ lanta.nstda.or.th
 ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
 
 # ระหว่างรอ
+https://tryhackme.com/room/linuxfundamentalspart1
 https://linuxsurvival.com/
 
 https://top500.org/
