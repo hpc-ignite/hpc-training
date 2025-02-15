@@ -2,14 +2,22 @@
 https://forms.gle/tvjDf57jRN4799wBA
 
 # ห้องเรียนออนไลน์
-
- "https://teams.microsoft.com/l/meetup-join/19%3a5pGTlXBNEqFrHtjQo5SJKjuZ_6pZlj6XFGb6fg9MUmA1%40thread.tacv2/1738979866759?context=%7b%22Tid%22%3a%220a43deb9-efb0-4f46-8594-71899230fda6%22%2c%22Oid%22%3a%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7d"
-
+ "https://teams.microsoft.com/l/meetup-join/19%3a5pGTlXBNEqFrHtjQo5SJKjuZ_6pZlj6XFGb6fg9MUmA1%40thread.tacv2/1739583708550?context=%7b%22Tid%22%3a%220a43deb9-efb0-4f46-8594-71899230fda6%22%2c%22Oid%22%3a%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7d" 
 
 
 # เข้าเครื่อง
+## ติดตั้งรหัสยืนยันตัวตน 2FA
+https://chromewebstore.google.com/search/Authenticator
+ใช้เลขรหัสที่ส่งให้ทาง Email เพื่อสร้าง code
+
+## ใช้โปรแกรม Mobaxterm เพื่อใช้ SFTP เข้าไปหยิบกุญแจ
+ชื่อเครื่อง transfer.lanta.nstda.or.th
+ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
+2FA ดูจากที่ติตตั้งใน Google Extension
+
+## ใช้ รหัส 2FA และ กุญแจ เพื่อเข้าใช้เครื่องผ่าน ssh session ใน Mobaxterm
 lanta.nstda.or.th
-transfer.lanta.nstda.or.th
+ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
 
 # ระหว่างรอ
 https://linuxsurvival.com/
