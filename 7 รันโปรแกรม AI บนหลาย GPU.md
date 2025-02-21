@@ -59,7 +59,7 @@ scp -r myfolder/ [ชื่อผู้ใช้]@transfer.lanta.nstda.or.th:/ho
 2. เปิดใช้งาน environment:
    
    ```bash
-conda activate pytorch-2.2.2
+   conda activate pytorch-2.2.2
    ```
 ---
 
