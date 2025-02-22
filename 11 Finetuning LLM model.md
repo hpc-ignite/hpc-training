@@ -97,7 +97,7 @@ echo "🔹 โหลด Mamba Module"
 module load Mamba/23.11.0-0
 
 echo "🔹 เปิดใช้งาน Conda Environment"
-conda activate /project/cb900902-hpct01/envs/llama-finetune
+conda activate /project/cb900907-hpctgn/envs/llama-finetune
 
 echo "🔹 เริ่มกระบวนการ Fine-Tuning"
 python finetune_llama.py
