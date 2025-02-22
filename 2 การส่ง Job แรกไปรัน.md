@@ -29,7 +29,7 @@ gpu          up     infinite     50   idle  x3002g0s[1-50]
 
 # คำสั่งสำหรับใช้ Nano และ Tree
 ```bash
-module use /project/cb900902-hpct01/modules
+module use /project/cb900907-hpctgn/modules
 ```
 ```bash
 module load nano
