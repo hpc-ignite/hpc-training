@@ -63,10 +63,23 @@ module load nano
 module load tree
 ```
 
-#การบ้าน ฝึกเล่น
-https://playground.tensorflow.org/
+# ฝึกเล่น หรือ ใช้สอน
+- ทดลองสร้าง Neuron network model สำหรับการจำแนก https://playground.tensorflow.org/
+- แบบจำลองเพื่อการเรียนวิทยาศาสตร์ https://phet.colorado.edu/
 
+# ตัวอย่างการใช้งาน Supercomputer
+## ด้านวิทยาศาสตร์ธรรมชาติ Life Science
+- GISAID (Global Initiative on Sharing All Influenza Data) คือโครงการระดับนานาชาติที่มุ่งเน้นการแบ่งปันข้อมูลทางพันธุกรรมของไวรัสไข้หวัดใหญ่ (Influenza) และไวรัสอื่น ๆ ที่เกี่ยวข้อง เช่น ไวรัสโคโรนา (SARS-CoV-2) เพื่อส่งเสริมความร่วมมือด้านการวิจัยและการเฝ้าระวังโรคระบาดทั่วโลก https://gisaid.org/
+- HADDOCK (High Ambiguity Driven biomolecular DOCKing) เป็นซอฟต์แวร์สำหรับการจำลองการจับคู่ของโมเลกุลชีวภาพ โดยใช้ข้อมูลทางชีวเคมีหรือชีวฟิสิกส์เป็นแนวทาง เวอร์ชัน 2.2 เปิดตัวในเดือนมีนาคม พ.ศ. 2558 https://www.bonvinlab.org/software/haddock2.2/
 
+## วิทยาศาสตร์โลก Earth Science 
+- Climate Model: https://fluid-earth.byrd.osu.edu/
+- Weather Model: [Windy.com](https://www.windy.com/?13.805,100.675,5)
+- Air Quality Model
+
+## งานคำนวณเร่งด่วน Urgent Computing
+- ภัยพิบัติ ( Disaster Prediction) https://www.pdc.org/
+  
 # แบบสอบถามหลังฝึกอบรม
 https://forms.gle/tK9vmbtVmDc7PQqq8
 
