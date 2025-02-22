@@ -83,3 +83,8 @@ module load tree
 # แบบสอบถามหลังฝึกอบรม
 https://forms.gle/tK9vmbtVmDc7PQqq8
 
+# ข้อมูลมีค่า
+https://aws.amazon.com/marketplace/search/results?prevFilters=%257B%2522trk%2522%3A%25228384929b-0eb1-4af3-8996-07aa409646bc%2522%2C%2522sc_channel%2522%3A%2522el%2522%2C%2522FULFILLMENT_OPTION_TYPE%2522%3A%2522DATA_EXCHANGE%2522%2C%2522CONTRACT_TYPE%2522%3A%2522OPEN_DATA_LICENSES%2522%2C%2522filters%2522%3A%2522FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE%2522%257D&searchTerms=Thailand
+![image](https://github.com/user-attachments/assets/7a31c38e-f4bf-4ec8-a5c3-4b65d7524e41)
+
+
