@@ -44,7 +44,6 @@ https://eurohpc-ju.europa.eu/supercomputers/our-supercomputers_en
 ## เครื่องที่เร็วสุดใน Asia: Aspire2A+
 https://www.nscc.sg/aspire-2a-plus/
 ## ซูเปอร์คอมพิวเตอร์ของ Australia 
-https://www.datacenterdynamics.com/en/news/brazils-petrobras-has-purchased-89-million-fleet-of-lenovo-supercomputers/
 https://nci.org.au/our-systems/hpc-systems
 ## ซูเปอร์คอมพิวเตอร์ ของไต้หวัน (Taiwania3)
 https://www.nchc.org.tw/
