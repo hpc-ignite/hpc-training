@@ -21,7 +21,7 @@ lanta.nstda.or.th
 
 # ระหว่างรอ
 เว็บไซต์สำหรับเรียนรู้คำสั่งพื้นฐานของระบบปฏิบัติการลีนุกซ์
-https://tryhackme.com/room/linuxfundamentalspart1
+https://tryhackme.com/room/linuxfundamentalspart1 และ 
 https://linuxsurvival.com/
 
 https://top500.org/
