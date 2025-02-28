@@ -24,13 +24,13 @@ lanta.nstda.or.th
 https://tryhackme.com/room/linuxfundamentalspart1 และ 
 https://linuxsurvival.com/
 
-https://top500.org/
+เว็บไซต์ที่จะจัดอันดับเครื่องซูเปอร์คอมพิวเตอร์ที่เร็วที่สุด 500 เครื่อง https://top500.org/
 
-https://thaisc.io/th/thaisc-resorces/lanta
+เว็บไซต์ที่แสดงข้อมูลของเครื่อง LANTA https://thaisc.io/th/thaisc-resorces/lanta
 
-https://thaisc.atlassian.net/wiki/spaces/LANTA/overview?homepageId=230719694#Introduction-to-LANTA
+เว็บไซต์ที่รวบรวมคู่มือการใช้งานเครื่อง LANTA https://thaisc.atlassian.net/wiki/spaces/LANTA/overview?homepageId=230719694#Introduction-to-LANTA
 
-https://thaisc.io/th/access-to-hpc/pricing
+เว็บไซต์ที่แสดงรายละเอียดค่าบริการของเครื่อง LANTA https://thaisc.io/th/access-to-hpc/pricing
 
 # ซูเปอร์คอมพิวเตอร์ ที่น่าสนใจ
 ## ฟูกากุ เครื่องที่ผลิตชิปและระบบเฉพาะขึ้นมาเอง
