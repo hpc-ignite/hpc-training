@@ -20,6 +20,7 @@ lanta.nstda.or.th
 ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
 
 # ระหว่างรอ
+เว็บไซต์สำหรับเรียนรู้คำสั่งพื้นฐานของระบบปฏิบัติการลีนุกซ์
 https://tryhackme.com/room/linuxfundamentalspart1
 https://linuxsurvival.com/
 
