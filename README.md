@@ -4,7 +4,6 @@ https://forms.gle/tvjDf57jRN4799wBA
 # ห้องเรียนออนไลน์
  "https://teams.microsoft.com/l/meetup-join/19%3a5pGTlXBNEqFrHtjQo5SJKjuZ_6pZlj6XFGb6fg9MUmA1%40thread.tacv2/1739583708550?context=%7b%22Tid%22%3a%220a43deb9-efb0-4f46-8594-71899230fda6%22%2c%22Oid%22%3a%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7d" 
 
-
 # เข้าเครื่อง
 ## ติดตั้งรหัสยืนยันตัวตน 2FA
 https://chromewebstore.google.com/search/Authenticator
@@ -31,6 +30,10 @@ https://linuxsurvival.com/
 เว็บไซต์ที่รวบรวมคู่มือการใช้งานเครื่อง LANTA https://thaisc.atlassian.net/wiki/spaces/LANTA/overview?homepageId=230719694#Introduction-to-LANTA
 
 เว็บไซต์ที่แสดงรายละเอียดค่าบริการของเครื่อง LANTA https://thaisc.io/th/access-to-hpc/pricing
+
+ข้อมูลมีมูลค่า -> ตัวอย่างตลาดขาย Dataset https://aws.amazon.com/marketplace/search/results?prevFilters=%257B%2522trk%2522%3A%25228384929b-0eb1-4af3-8996-07aa409646bc%2522%2C%2522sc_channel%2522%3A%2522el%2522%2C%2522FULFILLMENT_OPTION_TYPE%2522%3A%2522DATA_EXCHANGE%2522%2C%2522CONTRACT_TYPE%2522%3A%2522OPEN_DATA_LICENSES%2522%2C%2522filters%2522%3A%2522FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE%2522%257D&searchTerms=Thailand
+![image](https://github.com/user-attachments/assets/44cff418-d36f-435a-b901-67646953ad3e)
+
 
 # ซูเปอร์คอมพิวเตอร์ ที่น่าสนใจ
 ## ฟูกากุ เครื่องที่ผลิตชิปและระบบเฉพาะขึ้นมาเอง
@@ -66,6 +69,7 @@ module load tree
 # ฝึกเล่น หรือ ใช้สอน
 - ทดลองสร้าง Neuron network model สำหรับการจำแนก https://playground.tensorflow.org/
 - แบบจำลองเพื่อการเรียนวิทยาศาสตร์ https://phet.colorado.edu/
+- สร้างโมเดล Machine Learning ของตัวเอง https://teachablemachine.withgoogle.com/
 
 # ตัวอย่างการใช้งาน Supercomputer
 ## ด้านวิทยาศาสตร์ธรรมชาติ Life Science
@@ -73,9 +77,12 @@ module load tree
 - HADDOCK (High Ambiguity Driven biomolecular DOCKing) เป็นซอฟต์แวร์สำหรับการจำลองการจับคู่ของโมเลกุลชีวภาพ โดยใช้ข้อมูลทางชีวเคมีหรือชีวฟิสิกส์เป็นแนวทาง เวอร์ชัน 2.2 เปิดตัวในเดือนมีนาคม พ.ศ. 2558 https://www.bonvinlab.org/software/haddock2.2/
 
 ## วิทยาศาสตร์โลก Earth Science 
-- Climate Model: https://fluid-earth.byrd.osu.edu/
+- ความยั่งยืนของโลก https://insights.sustainability.google
+- โมเดลโลกจากไมโครซอฟต์ https://www.microsoft.com/en-us/research/product/microsoft-premonition/
+-  Climate Model: https://fluid-earth.byrd.osu.edu/
 - Weather Model: [Windy.com](https://www.windy.com/?13.805,100.675,5)
-- Air Quality Model
+- Air Quality Model: https://www.microsoft.com/en-us/research/product/microsoft-premonition/
+
 
 ## งานคำนวณเร่งด่วน Urgent Computing
 - ภัยพิบัติ ( Disaster Prediction) https://www.pdc.org/
