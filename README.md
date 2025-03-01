@@ -24,6 +24,9 @@ https://tryhackme.com/room/linuxfundamentalspart1 และ
 https://linuxsurvival.com/
 
 เว็บไซต์ที่จะจัดอันดับเครื่องซูเปอร์คอมพิวเตอร์ที่เร็วที่สุด 500 เครื่อง https://top500.org/
+ภาพ 3มิติ ของ HPE-Cray Supercomputer https://www.hpe.com/us/en/product-catalog/3d-model/servers/hpe-cray-systems/hpe-cray-supercomputers/hpe-cray-supercomputer-ex.html
+
+ 
 
 เว็บไซต์ที่แสดงข้อมูลของเครื่อง LANTA https://thaisc.io/th/thaisc-resorces/lanta
 
