@@ -57,6 +57,7 @@ nano myjob.sh
 #SBATCH --ntasks=1               # ใช้ 1 task
 #SBATCH --cpus-per-task=4        # ใช้ 4 CPU core
 #SBATCH --partition=cpu          # ใช้กลุ่ม CPU
+#SBATCH -A cb9009xx              # ระบุ Account ที่จะคิดเงิน
 
 # คำสั่งที่ต้องการให้รัน
 echo "Hello, LANTA!"
