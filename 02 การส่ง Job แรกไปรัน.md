@@ -56,7 +56,7 @@ nano myjob.sh
 #SBATCH --nodes=1                # ใช้ 1 node
 #SBATCH --ntasks=1               # ใช้ 1 task
 #SBATCH --cpus-per-task=4        # ใช้ 4 CPU core
-#SBATCH --partition=compute        # ใช้กลุ่ม CPU
+#SBATCH --partition=compute      # ใช้กลุ่ม CPU
 #SBATCH -A cb9009xx              # ระบุ Account ที่จะคิดเงิน
 
 # คำสั่งที่ต้องการให้รัน
@@ -76,6 +76,7 @@ echo "Job Completed!"
 ✅ `#SBATCH --cpus-per-task=4` → ใช้ 4 CPU cores  
 ✅ `#SBATCH --partition=compute` → ใช้พาร์ทิชัน CPU
 ✅ `#SBATCH -A cb9009xx` → ให้ไปคิดเงินที่ account cb9009xx
+
 
 ---
 
