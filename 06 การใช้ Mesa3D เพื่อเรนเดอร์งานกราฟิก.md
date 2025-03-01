@@ -144,7 +144,7 @@ nano submit_mesa.sh
 #SBATCH --ntasks=1
 #SBATCH -t 00:30:00
 #SBATCH -J mesa_test
-#SBATCH -A cb900902
+#SBATCH -A cb9009xx
 
 module load Mesa/23.1.9-cpeIntel-23.09
 
