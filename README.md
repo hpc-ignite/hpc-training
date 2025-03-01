@@ -6,23 +6,26 @@ https://forms.gle/tvjDf57jRN4799wBA
 
 # เข้าเครื่อง
 ## ติดตั้งรหัสยืนยันตัวตน 2FA
-https://chromewebstore.google.com/search/Authenticator
-ใช้เลขรหัสที่ส่งให้ทาง Email เพื่อสร้าง code
+ติดตั้ง Authenticator Extension https://chromewebstore.google.com/search/Authenticator
 ![Guide1](src/img/Guide1.png)
+เปิดหน้าต่าง Authenticator และเลือกสร้างแบบ Manual Entry
 ![Guide2](src/img/Guide2.png)
 ![Guide3](src/img/Guide3.png)
+นำSecret Keyที่ได้รับจากอีเมล์กรอกไปยัง Authenticator แล้วกด Ok
 ![Guide4](src/img/Guide4.png)
 ## ใช้โปรแกรม Mobaxterm เพื่อใช้ SFTP เข้าไปหยิบกุญแจ
-ชื่อเครื่อง transfer.lanta.nstda.or.th
-ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
-2FA ดูจากที่ติตตั้งใน Google Extension
+เข้าโปรแกรม Mobaxterm และเลือกไปที่ session
 ![Guide5](src/img/Guide5.png)
+หลังจากนั้นเลือกไปที่ SFTP และกรอก 
+Remotehost: transfer.lanta.nstda.or.th และ Usernameที่อยู่หลังบัตรหรือในอีเมล์ 
+หลังจากนั้นกด OK และกรอกPassword และ 2FA ดูจากที่ติตตั้งใน Google Extension
 ![Guide6](src/img/Guide6.png)
+เลือกที่ไปที่ .ssh/
 ![Guide7](src/img/Guide7.png)
+จะพบกับกุญแจ (id_rsa) ให้กดปุ่ม Download ด้านบนเพื่อ Download กุญแจไปยังเครื่อง
 ![Guide8](src/img/Guide8.png)
 ## ใช้ รหัส 2FA และ กุญแจ เพื่อเข้าใช้เครื่องผ่าน ssh session ใน Mobaxterm
-lanta.nstda.or.th
-ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
+เลือกสร้าง session และกดไปที่ SSH
 ![Guide9](src/img/Guide9.png)
 # ระหว่างรอ
 เว็บไซต์สำหรับเรียนรู้คำสั่งพื้นฐานของระบบปฏิบัติการลีนุกซ์
