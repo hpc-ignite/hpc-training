@@ -16,11 +16,14 @@ https://chromewebstore.google.com/search/Authenticator
 ชื่อเครื่อง transfer.lanta.nstda.or.th
 ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
 2FA ดูจากที่ติตตั้งใน Google Extension
-
+![Guide5](src/img/Guide5.png)
+![Guide6](src/img/Guide6.png)
+![Guide7](src/img/Guide7.png)
+![Guide8](src/img/Guide8.png)
 ## ใช้ รหัส 2FA และ กุญแจ เพื่อเข้าใช้เครื่องผ่าน ssh session ใน Mobaxterm
 lanta.nstda.or.th
 ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
-
+![Guide9](src/img/Guide9.png)
 # ระหว่างรอ
 เว็บไซต์สำหรับเรียนรู้คำสั่งพื้นฐานของระบบปฏิบัติการลีนุกซ์
 https://tryhackme.com/room/linuxfundamentalspart1 และ 
