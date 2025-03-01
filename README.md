@@ -8,7 +8,10 @@ https://forms.gle/tvjDf57jRN4799wBA
 ## ติดตั้งรหัสยืนยันตัวตน 2FA
 https://chromewebstore.google.com/search/Authenticator
 ใช้เลขรหัสที่ส่งให้ทาง Email เพื่อสร้าง code
-
+![Guide1](src/img/Guide1.png)
+![Guide2](src/img/Guide2.png)
+![Guide3](src/img/Guide3.png)
+![Guide4](src/img/Guide4.png)
 ## ใช้โปรแกรม Mobaxterm เพื่อใช้ SFTP เข้าไปหยิบกุญแจ
 ชื่อเครื่อง transfer.lanta.nstda.or.th
 ชื่อผู้ใช้, รหัสผ่าน อยู่หลังบัตร
