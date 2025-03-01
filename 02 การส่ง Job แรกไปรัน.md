@@ -77,7 +77,6 @@ echo "Job Completed!"
 ✅ `#SBATCH --partition=compute` → ใช้พาร์ทิชัน CPU
 ✅ `#SBATCH -A cb9009xx` → ให้ไปคิดเงินที่ account cb9009xx
 
-
 ---
 
 ## **🔹 3. ส่งงานเข้า Slurm Queue (Submitting the Job)**
