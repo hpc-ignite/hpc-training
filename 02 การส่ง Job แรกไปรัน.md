@@ -74,7 +74,7 @@ echo "Job Completed!"
 ✅ `#SBATCH --nodes=1` → ใช้ 1 เครื่อง  
 ✅ `#SBATCH --ntasks=1` → ใช้ 1 process  
 ✅ `#SBATCH --cpus-per-task=4` → ใช้ 4 CPU cores  
-✅ `#SBATCH --partition=compute` → ใช้พาร์ทิชัน CPU
+✅ `#SBATCH --partition=compute` → ใช้พาร์ทิชัน CPU..
 ✅ `#SBATCH -A cb9009xx` → ให้ไปคิดเงินที่ account cb9009xx
 
 ---
