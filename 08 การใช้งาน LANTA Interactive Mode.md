@@ -58,11 +58,11 @@ conda activate netcdf-py39
 ## **✅ 3. ขอใช้ Interactive Session (CPU/GPU)**
 ### **🎯 3.1 ขอใช้ CPU Interactive Mode**
 ```bash
-sinteract -p compute -c 4 -t 1:00:00
+sinteract -p compute -c 4 -t 00:30:00
 ```
 ### **🎯 3.2 ขอใช้ GPU Interactive Mode**
 ```bash
-sinteract -p gpu -c 16 -G 1 -t 02:00:00
+sinteract -p gpu -c 4 -G 1 -t 00:30:00
 ```
 📌 ใช้ **GPU สำหรับ Deep Learning** เช่น PyTorch & TensorFlow  
 
