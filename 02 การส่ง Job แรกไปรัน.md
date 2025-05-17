@@ -52,12 +52,12 @@ nano myjob.sh
 #SBATCH --job-name=my_first_job  # ชื่อของงาน
 #SBATCH --output=output.txt      # ไฟล์เก็บผลลัพธ์
 #SBATCH --error=error.txt        # ไฟล์เก็บข้อผิดพลาด
-#SBATCH --time=00:10:00          # เวลารันสูงสุด (HH:MM:SS)
+#SBATCH --time=00:02:00          # เวลารันสูงสุด (HH:MM:SS)
 #SBATCH --nodes=1                # ใช้ 1 node
 #SBATCH --ntasks=1               # ใช้ 1 task
 #SBATCH --cpus-per-task=4        # ใช้ 4 CPU core
 #SBATCH --partition=compute      # ใช้กลุ่ม CPU
-#SBATCH -A cb9009xx              # ระบุ Account ที่จะคิดเงิน
+#SBATCH -A cb900908              # ระบุ Account ที่จะคิดเงิน
 
 # คำสั่งที่ต้องการให้รัน
 echo "Hello, LANTA!"
@@ -70,12 +70,12 @@ echo "Job Completed!"
 ✅ `#SBATCH --job-name=my_first_job` → กำหนดชื่อของงาน  
 ✅ `#SBATCH --output=output.txt` → บันทึกผลลัพธ์ของงานลงไฟล์  
 ✅ `#SBATCH --error=error.txt` → บันทึกข้อผิดพลาดที่เกิดขึ้น  
-✅ `#SBATCH --time=00:10:00` → ตั้งเวลารันสูงสุด 10 นาที  
+✅ `#SBATCH --time=00:02:00` → ตั้งเวลารันสูงสุด 2 นาที  
 ✅ `#SBATCH --nodes=1` → ใช้ 1 เครื่อง  
 ✅ `#SBATCH --ntasks=1` → ใช้ 1 process  
 ✅ `#SBATCH --cpus-per-task=4` → ใช้ 4 CPU cores  
 ✅ `#SBATCH --partition=compute` → ใช้พาร์ทิชัน CPU  
-✅ `#SBATCH -A cb9009xx` → ให้ไปคิดเงินที่ account cb9009xx
+✅ `#SBATCH -A cb900908` → ให้ไปคิดเงินที่ account cb900908
 
 ---
 
