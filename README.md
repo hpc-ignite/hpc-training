@@ -1,8 +1,10 @@
+# สไลด์
+https://drive.google.com/drive/folders/19D9uCsV4PEUYyHxLN6IjqhXzalMx0EAO?usp=sharing
+
 # แบบสอบถามก่อนฝึกอบรม
 https://forms.gle/tvjDf57jRN4799wBA
 
-# ห้องเรียนออนไลน์
- "https://teams.microsoft.com/l/meetup-join/19%3a5pGTlXBNEqFrHtjQo5SJKjuZ_6pZlj6XFGb6fg9MUmA1%40thread.tacv2/1739583708550?context=%7b%22Tid%22%3a%220a43deb9-efb0-4f46-8594-71899230fda6%22%2c%22Oid%22%3a%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7d" 
+
 
 # เข้าเครื่อง
 ## ติดตั้งรหัสยืนยันตัวตน 2FA
