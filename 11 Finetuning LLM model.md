@@ -219,6 +219,7 @@ myqueue
 cat llama_webui_*.log
 ```
 **5. เปิด terminal ใหม่ และ copy คำสั่งที่อ่านไฟล์ออกมา**
+
 **6. เปิด browser ด้วย URL ด้านล่าง เพื่อเปิด LLaMa-Factory**
 ```bash 
 http://localhost:7860
