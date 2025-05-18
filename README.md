@@ -1,6 +1,7 @@
 # สไลด์
 ## https://drive.google.com/drive/folders/19D9uCsV4PEUYyHxLN6IjqhXzalMx0EAO?usp=sharing
 ## https://www.canva.com/design/DAGnsVjhzWg/ApXqiWXPJ6JoUtVoX6F0Mg/view?utm_content=DAGnsVjhzWg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75fc95f9f7
+## https://www.canva.com/design/DAGdQ57PQCo/NI84rOoEE2RDAI1c_LlcBg/view?utm_content=DAGdQ57PQCo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8739163ced
 
 # แบบสอบถามก่อนฝึกอบรม
 https://forms.gle/tvjDf57jRN4799wBA
