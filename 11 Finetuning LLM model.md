@@ -202,11 +202,24 @@ ollama run hpc_ignite "ฉันควรเริ่มเรียนรู้
 ---
 
 ## ** การปรับแต่งโมเดลภาษาธรรมชาติบน GPU Nodes ด้วย LLaMa-Factory**
-    **1. เข้าไปยังโฟลเดอร์ llm-finetuning**
+**1. เข้าไปยังโฟลเดอร์ llm-finetuning**
 ```bash
 cd training/llm-finetuning
 ```
-    **2. ส่ง job script ไปรันบน LANTA**
+**2. ส่ง job script ไปรันบน LANTA**
 ```bash 
 sbatch host.sh
+```
+**3. เช็คสถานะงาน**
+```bash 
+myqueue
+```
+**4. อ่านไฟล์ log จากการรัน job**
+```bash 
+cat llama_webui_*.log
+```
+**5. เปิด terminal ใหม่ และ copy คำสั่งที่อ่านไฟล์ออกมา**
+**6. เปิด browser ด้วย URL ด้านล่าง เพื่อเปิด LLaMa-Factory**
+```bash 
+http://localhost:7860
 ```
