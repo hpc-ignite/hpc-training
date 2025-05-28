@@ -53,20 +53,20 @@ cd /project/[ProjectID]
 
 ### **กลับไปยังโฟลเดอร์หลักของผู้ใช้**
 ```bash
-cd ~
+cd
 ```
 ### **สร้างโฟลเดอร์ใหม่**
 ```bash
 mkdir myfolder
 ```
 
-### **สร้างไฟล์ใหม่**
+### **สร้างไฟล์เปล่าขึ้นมาใหม่**
 ```bash
 touch filename.txt
 ```
 
 
-### **ลบไฟล์หรือโฟลเดอร์**
+### **ลบไฟล์หรือโฟลเดอร์ (rm - remove)**
 ```bash
 rm filename.txt
 rm -r myfolder  # ใช้สำหรับโฟลเดอร์
@@ -75,15 +75,15 @@ rm -r myfolder  # ใช้สำหรับโฟลเดอร์
 ---
 
 ## **4. การคัดลอกและย้ายไฟล์**
-### **คัดลอกไฟล์**
+### **คัดลอกไฟล์ (cp - copy)**
 ```bash
 cp file1.txt file2.txt  # คัดลอกจาก file1.txt เป็น file2.txt
 ```
-### **คัดลอกโฟลเดอร์**
+### **คัดลอกโฟลเดอร์ (cp -r)**
 ```bash
 cp -r myfolder newfolder
 ```
-### **ย้ายไฟล์**
+### **ย้ายไฟล์ (mv)**
 ```bash
 mv file1.txt /project/[ProjectID]/
 ```
