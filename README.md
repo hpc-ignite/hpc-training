@@ -113,7 +113,22 @@ module load tree
 
 ## งานคำนวณเร่งด่วน Urgent Computing
 - ภัยพิบัติ ( Disaster Prediction) https://www.pdc.org/
-  
+
+# การเช็คบัญชี
+## เช็คการใช้งานทั้งหมดตั้งแต่เริ่มเข้าระบบ
+```bash
+sacct -u $USER
+```
+## เช็คการใช้งานตามช่วงเวลา
+```bash
+sacct -u $USER --start=2025-05-01 --end=2025-05-31
+```
+
+## เช็คทรัพยากรที่ใช้ไปในแต่ละงาน
+```bash
+sacct -j 2329927 --format=JobID,JobName,Elapsed,TotalCPU,MaxRSS,State
+```
+
 # แบบสอบถามหลังฝึกอบรม
 https://forms.gle/tK9vmbtVmDc7PQqq8
 
