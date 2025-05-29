@@ -3,6 +3,8 @@
 ## https://www.canva.com/design/DAGnsVjhzWg/ApXqiWXPJ6JoUtVoX6F0Mg/view?utm_content=DAGnsVjhzWg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75fc95f9f7
 ## https://www.canva.com/design/DAGdQ57PQCo/NI84rOoEE2RDAI1c_LlcBg/view?utm_content=DAGdQ57PQCo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8739163ced
 
+## https://www.canva.com/design/DAGojpTqPa8/2QkWi8f6f6heR9wPSvzqqA/view?utm_content=DAGojpTqPa8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7464ec6951
+
 # ห้อง Online
 https://teams.microsoft.com/l/meetup-join/19:fxWoyABBgWziu-CtDZgdrK8Q7OQbhME-KPnqlaY9DcU1@thread.tacv2/1748399441599?context=%7B%22Tid%22:%220a43deb9-efb0-4f46-8594-71899230fda6%22,%22Oid%22:%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7D
 
