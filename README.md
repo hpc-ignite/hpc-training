@@ -6,7 +6,7 @@
 ## https://www.canva.com/design/DAGojpTqPa8/2QkWi8f6f6heR9wPSvzqqA/view?utm_content=DAGojpTqPa8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7464ec6951
 
 # ห้อง Online
-https://teams.microsoft.com/l/meetup-join/19:fxWoyABBgWziu-CtDZgdrK8Q7OQbhME-KPnqlaY9DcU1@thread.tacv2/1748399441599?context=%7B%22Tid%22:%220a43deb9-efb0-4f46-8594-71899230fda6%22,%22Oid%22:%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7D
+https://teams.microsoft.com/l/meetup-join/19%3a5pGTlXBNEqFrHtjQo5SJKjuZ_6pZlj6XFGb6fg9MUmA1%40thread.tacv2/1749261545495?context=%7b%22Tid%22%3a%220a43deb9-efb0-4f46-8594-71899230fda6%22%2c%22Oid%22%3a%22a3bb9828-ad29-408d-8c45-c3864f1f432d%22%7d
 
 # แบบสอบถามก่อนฝึกอบรม
 https://forms.gle/tvjDf57jRN4799wBA
