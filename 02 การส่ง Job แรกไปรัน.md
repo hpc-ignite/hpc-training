@@ -184,7 +184,7 @@ cat error.txt
 #SBATCH --job-name=python_job
 #SBATCH --output=python_output.txt
 #SBATCH --time=00:05:00
-#SBATCH --partition=cpu
+#SBATCH --partition=compute
 
 module load python/3.8
 python my_script.py
@@ -206,7 +206,7 @@ sbatch my_python_job.sh
 ✅ ยกเลิกงานหากจำเป็น (`scancel <JobID>`)  
 
 🎯 **คำถามสำหรับนักเรียน**
-1. `#SBATCH --partition=cpu` หมายถึงอะไร?
+1. `#SBATCH --partition=compute` หมายถึงอะไร?
 2. คำสั่ง `sbatch myjob.sh` ใช้ทำอะไร?
 3. จะยกเลิกงานที่กำลังรันอยู่ได้อย่างไร?
 
